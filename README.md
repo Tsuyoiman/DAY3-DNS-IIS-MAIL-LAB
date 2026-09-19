@@ -123,7 +123,7 @@ Server Manager → **Manage** → **Add Roles and Features** → **Next** throug
 ### Step 8 — Verify the role works
 
 ```
-ping 10.M.1.10
+ping 10.M.1.10    ----> M = your pc number
 nmap -v 10.M.1.10
 ```
 
